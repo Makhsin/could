@@ -1,0 +1,28 @@
+{
+  "name": "could",
+  "version": "1.0.0",
+  "description": "could",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "format": "prettier --write *.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Makhsin/could.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Makhsin/could/issues"
+  },
+  "homepage": "https://github.com/Makhsin/could#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "prettier": "^2.2.1"
+  }
+}
